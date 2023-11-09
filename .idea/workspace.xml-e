@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="171e4ff3-b3ba-463a-a37c-273dc3eafeb6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Assignment1-Soln/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment1-Soln/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1-Soln/ColumnBuilderKarel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment1-Soln/ColumnBuilderKarel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Karel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WWW/assn/1-Karel/1-Karel.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WWW/assn/1-Karel/1-Karel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WWW/assn/1-Karel/Assignment 1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WWW/assn/1-Karel/Assignment1.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../WWW/assn/1-Karel/Assignment1.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WWW/handouts/h5_installingpycharm.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WWW/handouts/h5_installingpycharm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WWW/handouts/h6_Using_Karel_with_PyCharm.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../WWW/handouts/h6_Using_Karel_with_PyCharm.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WWW/handouts/h7_Karel_Reference_Guide.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../WWW/handouts/h7_Karel_Reference_Guide.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WWW/handouts/pycharm_intro.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../WWW/handouts/pycharm_intro.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WWW/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WWW/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WWW/lectures/1-Welcome/1-Welcome.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../WWW/lectures/1-Welcome/1-Welcome.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WWW/lectures/1-Welcome/code/Lecture1.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../WWW/lectures/1-Welcome/code/Lecture1.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WWW/lectures/1-Welcome/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WWW/lectures/1-Welcome/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WWW/schedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WWW/schedule.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WWW/section/1/Section1-Solutions.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../WWW/section/1/Section1-Solutions.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pycharm_intro/.idea/pycharm_intro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../pycharm_intro/.idea/pycharm_intro.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Karel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="33" selection-start-column="33" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>browse</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Karel.py" />
+        <option value="$PROJECT_DIR$/worlds/TestWorld.kwld" />
+        <option value="$PROJECT_DIR$/worlds/KarelGoesHome2.kwld" />
+        <option value="$PROJECT_DIR$/worlds/KarelGoesHome.kwld" />
+        <option value="$PROJECT_DIR$/worlds/SafeMove2.kwld" />
+        <option value="$PROJECT_DIR$/worlds/SafeMove1.kwld" />
+        <option value="$PROJECT_DIR$/worlds/1x8RandomBeepers.kwld" />
+        <option value="$PROJECT_DIR$/worlds/3x3.kwld" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/BlankKarel.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="61" />
+    <option name="width" value="1140" />
+    <option name="height" value="662" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BlankKarel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlankKarel" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Karel" type="PythonConfigurationType" factoryName="Python">
+      <module name="BlankKarel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Karel.py" />
+      <option name="PARAMETERS" value="worlds/Checkerboard8x8.kwld" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="171e4ff3-b3ba-463a-a37c-273dc3eafeb6" name="Default Changelist" comment="" />
+      <created>1561161078919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561161078919</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="61" width="1140" height="662" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3163539" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32892805" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32892805" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32892805" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/worlds/Checkerboard3x5.kwld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worlds/TestWorld.kwld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worlds/Checkerboard1x8.kwld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worlds/SafeMove1.kwld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worlds/1x8.kwld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worlds/1x8RandomBeepers.kwld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worlds/3x3.kwld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worlds/SafeMove2.kwld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worlds/KarelGoesHome2.kwld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worlds/KarelGoesHome.kwld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karel/tkwindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="548" column="14" selection-start-line="548" selection-start-column="8" selection-end-line="548" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Karel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
